@@ -37,3 +37,7 @@
 
 # Flex output
 lex.yy.c
+
+# Yacc output
+*.tab.c
+*.tab.h
