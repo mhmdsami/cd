@@ -8,6 +8,7 @@
  *            stdin> whatever you like
  *	      stdin> Ctrl-D
  * Example from http://alumni.cs.ucr.edu/~lgao/teaching/flex/sample2.lex
+ * This is a basic example for flex program
  */
 
 	int num_lines = 0, num_chars = 0;
